@@ -1,4 +1,4 @@
-# React Redux Cart Application
+# React - Redux - Axios - Recharts - ... Application
 
 Ce projet est une développée avec **React** et **Redux Toolkit**.
 
