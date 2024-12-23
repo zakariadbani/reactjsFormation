@@ -1,0 +1,97 @@
+.users_list {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.users_list h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.users_list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.users_list li {
+  margin-bottom: 20px;
+}
+
+.user_card {
+  background-color: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.user_card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.user_card p {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.user_card a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.user_card a:hover {
+  text-decoration: underline;
+}
+
+/*******************************/
+/*******************************/
+/*******************************/
+/*******************************/
+/*******************************/
+/*******************************/
+
+.details_user {
+  font-family: "Arial", sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.details_user h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.details_user h3 {
+  font-size: 1.5rem;
+  color: #444;
+  margin-top: 20px;
+}
+
+.details_user p {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.details_user a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.details_user a:hover {
+  text-decoration: underline;
+}
+
+.details_user p span {
+  font-weight: bold;
+}

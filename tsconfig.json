@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx", // Enable JSX support for React
+    "moduleResolution": "node",
+    "target": "es6",
+    "module": "esnext",
+    "esModuleInterop": true,
+    "strict": true
+  }
+}
